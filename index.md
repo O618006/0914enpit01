@@ -20,3 +20,5 @@ PCゲーム<br><br>
 3. Crusader Kings<br>
 4. Walking Dead
 </details>
+
+![外部リンク(a)](https://www.google.co.jp/search?q=a&oq=a&aqs=chrome..69i57j5l3j0l2.1531j0j4&sourceid=chrome&ie=UTF-8)
