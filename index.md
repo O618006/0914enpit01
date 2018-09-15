@@ -13,3 +13,4 @@ PCゲーム<br><br>
 4. DOOM
 </details>
   <br>
+<details><summary>折りたたみ表示のサマリ</summary>ここに折りたたみ表示の詳細を記入する<br>a</details>
