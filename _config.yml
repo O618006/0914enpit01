@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: enPit2018
+description: GitHub Pagesについて易しく解説します
+github:
+  is_project_page: false
