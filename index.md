@@ -13,4 +13,10 @@ PCゲーム<br><br>
 4. DOOM
 </details>
   <br>
-<details><summary>折りたたみ表示のサマリ</summary>ここに折りたたみ表示の詳細を記入する<br>a</details>
+<details>
+<summary>将棋の禁じ手</summary>
+1. 二歩<br>
+2. 行き場所のない駒<br>
+3. 打ち歩詰め<br>
+4. 連続王手の千日手  
+</details>
